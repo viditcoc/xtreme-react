@@ -1,0 +1,92 @@
+[
+    {
+        "id": 54,
+        "banner_name": "NewBnnr_3.jpg",
+        "workname": "Jack N Jill",
+        "bannerText": "Jack N Jill Brand Packaging",
+        "prodtype": "competitive scenario",
+        "bannerTitle": "Effective design for a ",
+        "bgcode": "4b4b4b"
+    },
+    {
+        "id": 50,
+        "banner_name": "Bannr_4-copy.jpg",
+        "workname": "R & S",
+        "bannerText": "Dennis Special Packaging",
+        "prodtype": "to hit with the right design",
+        "bannerTitle": "Key strategies",
+        "bgcode": "0a1859"
+    },
+    {
+        "id": 46,
+        "banner_name": "client.jpg",
+        "workname": "Clients",
+        "bannerText": "Clients",
+        "prodtype": "for a impactful communication",
+        "bannerTitle": "Team of innovators ",
+        "bgcode": "222322"
+    },
+    {
+        "id": 45,
+        "banner_name": "lifelong.jpg",
+        "workname": "Lifelong",
+        "bannerText": "Home Appliance Packaging",
+        "prodtype": "is detailed masterly",
+        "bannerTitle": "Each design",
+        "bgcode": "222322"
+    },
+    {
+        "id": 44,
+        "banner_name": "noodle_1.jpg",
+        "workname": "Bharat Group",
+        "bannerText": "Happie Noodles Packaging",
+        "prodtype": "this challenging world",
+        "bannerTitle": "Competitive designs for",
+        "bgcode": "cbc000"
+    },
+    {
+        "id": 43,
+        "banner_name": "BMONKEY AWD 2.jpg",
+        "workname": "Bad Monkey ",
+        "bannerText": "Beer Packaging",
+        "prodtype": "the competition",
+        "bannerTitle": "Packaging to tower above",
+        "bgcode": "4b4b4b"
+    },
+    {
+        "id": 42,
+        "banner_name": "barents 2.jpg",
+        "workname": "Barents",
+        "bannerText": "Whisky Packaging",
+        "prodtype": "makes all the difference",
+        "bannerTitle": "The right packaging",
+        "bgcode": "1e431a"
+    },
+    {
+        "id": 41,
+        "banner_name": "white-blue2.jpg",
+        "workname": "Alcobrew",
+        "bannerText": "White & Blue Packaging",
+        "prodtype": "for a valuable product",
+        "bannerTitle": "Luxurious packaging",
+        "bgcode": "202222"
+    },
+    {
+        "id": 39,
+        "banner_name": "blue-eys.jpg",
+        "workname": "R & S",
+        "bannerText": "Blue Eyes Packaging",
+        "prodtype": "with the right essence",
+        "bannerTitle": "Designs to contribute",
+        "bgcode": "57aa00"
+    },
+    {
+        "id": 37,
+        "banner_name": "white hills.jpg",
+        "workname": "Alcobrew",
+        "bannerText": "White Hills Packaging ",
+        "prodtype": "more powerful impact",
+        "bannerTitle": "Simple elements to make",
+        "bgcode": "1C3683"
+    }
+]

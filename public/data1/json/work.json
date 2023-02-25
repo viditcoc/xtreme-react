@@ -1,0 +1,191 @@
+[
+    {
+        "id": 1,
+        "image_id": 1,
+        "product_type": "PACKAGING  ",
+        "tag_line": "BAD MONKEY BEER",
+        "client": "SINQ BEVERAGES",
+        "thumb_image": "Monky1.jpg",
+        "big_image": "Monky-big.jpg"
+    },
+    {
+        "id": 2,
+        "image_id": 2,
+        "product_type": "PACKAGING",
+        "tag_line": "JACK N JILL WHISKY",
+        "client": "MAA SHEETLA UDYOG",
+        "thumb_image": "JnJBlk_1.jpg",
+        "big_image": "JnJblk_2.jpg"
+    },
+    {
+        "id": 3,
+        "image_id": 3,
+        "product_type": "PACKAGING",
+        "tag_line": "BREW MONKEY BEER",
+        "client": "AMARA BREWERIES",
+        "thumb_image": "BrewMnky1.jpg",
+        "big_image": "BrewMnky2.jpg"
+    },
+    {
+        "id": 4,
+        "image_id": 4,
+        "product_type": "  PACKAGING  ",
+        "tag_line": "GINSBERG BEER",
+        "client": "AMARA BREWERIES",
+        "thumb_image": "Gins_1.jpg",
+        "big_image": "Gins_2.jpg"
+    },
+    {
+        "id": 5,
+        "image_id": 5,
+        "product_type": "PACKAGING",
+        "tag_line": "GARRISON WHISKY",
+        "client": "ROCK & STORM",
+        "thumb_image": "Garrison_1.jpg",
+        "big_image": "Garrison_2.jpg"
+    },
+    {
+        "id": 6,
+        "image_id": 6,
+        "product_type": "PACKAGING",
+        "tag_line": "WHITE & BLUE WHISKY",
+        "client": "ALCOBREW",
+        "thumb_image": "Wblue-1.jpg",
+        "big_image": "Wblue.jpg"
+    },
+    {
+        "id": 7,
+        "image_id": 7,
+        "product_type": "PACKAGING",
+        "tag_line": "DENNIS WHISKY",
+        "client": "ROCK & STORM",
+        "thumb_image": "dennis_1.jpg",
+        "big_image": "dennis_2.jpg"
+    },
+    {
+        "id": 8,
+        "image_id": 8,
+        "product_type": "PACKAGING",
+        "tag_line": "HILTON CLUB WHISKY",
+        "client": "SINGLA GROUP",
+        "thumb_image": "hiltnClub_1.jpg",
+        "big_image": "hiltnClub_2.jpg"
+    },
+    {
+        "id": 9,
+        "image_id": 9,
+        "product_type": "PACKAGING",
+        "tag_line": "PURE GRAIN VODKA",
+        "client": "ROCK AND STORM ",
+        "thumb_image": "brand09.png",
+        "big_image": "brand09.png"
+    },
+    {
+        "id": 10,
+        "image_id": 10,
+        "product_type": "PACKAGING",
+        "tag_line": "ROYAL CASINO WHISKY",
+        "client": "ROCK & STORM",
+        "thumb_image": "roaylcasino_1.jpg",
+        "big_image": "roaylcasino_2.jpg"
+    },
+    {
+        "id": 11,
+        "image_id": 11,
+        "product_type": "PACKAGING",
+        "tag_line": "BARENTS WHISKY",
+        "client": "ROCK & STORM",
+        "thumb_image": "Brents_1.jpg",
+        "big_image": "Brents_2.jpg"
+    },
+    {
+        "id": 12,
+        "image_id": 12,
+        "product_type": "   PACKAGING   ",
+        "tag_line": "  WHITE HILLS WHISKY  ",
+        "client": "   ALCOBREW  ",
+        "thumb_image": "WhiteHills_1.jpg",
+        "big_image": "WhiteHills_2.jpg"
+    },
+    {
+        "id": 18,
+        "image_id": 18,
+        "product_type": "POINT OF PURCHASE",
+        "tag_line": "STAX CHIPS",
+        "client": "PEPSICO",
+        "thumb_image": "brand18.png",
+        "big_image": "brand18.png"
+    },
+    {
+        "id": 20,
+        "image_id": 20,
+        "product_type": "  PACKAGING  ",
+        "tag_line": "  MARUTI GENIUNE PARTS  ",
+        "client": "  MARUTI  ",
+        "thumb_image": "brand20.png",
+        "big_image": "maruti1.jpg"
+    },
+    {
+        "id": 21,
+        "image_id": 21,
+        "product_type": " PACKAGING ",
+        "tag_line": " AUBERGE GREEN APPLE PREMIUM VODKA ",
+        "client": " ALCOBREW",
+        "thumb_image": "brand21.png",
+        "big_image": "auberge apple.jpg"
+    },
+    {
+        "id": 26,
+        "image_id": 26,
+        "product_type": "PACKAGING",
+        "tag_line": "RED & WHITE LIMITED EDITION PACK",
+        "client": "GPI ",
+        "thumb_image": "brand26.png",
+        "big_image": "brand26.png"
+    },
+    {
+        "id": 57,
+        "image_id": 0,
+        "product_type": "PACKAGING",
+        "tag_line": "STERILE HYPODERMIC SYRINGES",
+        "client": "LIFELONG",
+        "thumb_image": "lifelong thu.jpg",
+        "big_image": "lifelong.jpg"
+    },
+    {
+        "id": 69,
+        "image_id": null,
+        "product_type": "PACKAGING",
+        "tag_line": "HAIR SHAMPOO",
+        "client": "JOVEES",
+        "thumb_image": "jov-hairthumb.jpg",
+        "big_image": "jov-hair jpg.jpg"
+    },
+    {
+        "id": 70,
+        "image_id": null,
+        "product_type": "PACKAGING",
+        "tag_line": "SPICES",
+        "client": "BHARAT GROUP",
+        "thumb_image": "masalaJPG.jpg",
+        "big_image": "masala-jpg.jpg"
+    },
+    {
+        "id": 71,
+        "image_id": null,
+        "product_type": "PACKAGING",
+        "tag_line": "NOODLES",
+        "client": "BHARAT GROUP",
+        "thumb_image": "Noodle1-JPG.jpg",
+        "big_image": "Noodle_1-Jpg.jpg"
+    },
+    {
+        "id": 72,
+        "image_id": null,
+        "product_type": "PACKAGING",
+        "tag_line": "COCKTAIL MIX",
+        "client": "TWYST",
+        "thumb_image": "twyst_thumb_jpg.jpg",
+        "big_image": "twyst_JPG.jpg"
+    }
+]
