@@ -36,14 +36,14 @@ export default function Services() {
          
 
  
-    <Col className="col-sm-3 text-center ">
+    <Col className="col-sm-3 col-12 text-center ">
         <span className="services-icon"><img src="data1/img/Process-icon4.png" alt="" className=""/></span>
         <h3 className="ls4 mb25 ">PLAN</h3>
         <p>
         We begin every project at the beginning, by working with you to understand your business, its marketplace and its offering. From here, we’ll identify how design can have the greatest impact on your business and define a design brief accordingly.
         </p>
     </Col>
-    <Col className="col-sm-3 text-center">
+    <Col className="col-sm-3 col-12 text-center">
         <span className="services-icon"><img src="data1/img/Process-icon3.png" alt="" className=""/></span>
         <h3 className="ls4 mb25">CREATE</h3>
         <p>
@@ -52,7 +52,7 @@ export default function Services() {
 
         </p>
     </Col>
-    <Col className="col-sm-3 text-center">
+    <Col className="col-sm-3 col-12 text-center">
         <span className="services-icon"><img src="data1/img/Process-icon2.png" alt="" className=""/></span>
         <h3 className="ls4 mb25">IMPLEMENT</h3>
         <p>
@@ -62,7 +62,7 @@ export default function Services() {
         </p>
     </Col>
      
-    <Col className="col-sm-3 text-center ">
+    <Col className="col-sm-3 col-12 text-center ">
         <span className="services-icon"><img src="data1/img/Process-icon1.png" alt="" className=""/></span>
         <h3 className="ls4 mb25 ">MEASURE</h3>
         <p>

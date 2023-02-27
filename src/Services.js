@@ -28,7 +28,7 @@ export default function Services() {
          
 
  
-    <Col className="col-sm-4 text-center ">
+    <Col className="col-sm-4 col-12 text-center ">
         <span className="services-icon"><img src="data1/img/services1.png" alt="" className=""/></span>
         <h3 className="ls4 mb25 ">positioning</h3>
         <p>
@@ -38,7 +38,7 @@ export default function Services() {
             Knowing your position is <br/>essential to delivering<br/> work that reflects your <br/>business.
         </p>
     </Col>
-    <Col className="col-sm-4 text-center">
+    <Col className="col-sm-4 col-12 text-center">
         <span className="services-icon"><img src="data1/img/services2.png" alt="" className=""/></span>
         <h3 className="ls4 mb25">strategy</h3>
         <p>
@@ -47,7 +47,7 @@ export default function Services() {
             A clear strategy ensures <br/>you use design effectively<br/> to achieve you goals.
         </p>
     </Col>
-    <Col className="col-sm-4 text-center">
+    <Col className="col-sm-4 col-12 text-center">
         <span className="services-icon"><img src="data1/img/services3.png" alt="" className=""/></span>
         <h3 className="ls4 mb25">communication</h3>
         <p>
@@ -58,7 +58,7 @@ export default function Services() {
         </p>
     </Col>
     <div className="clearfix"></div>
-    <Col className="col-sm-4 text-center ">
+    <Col className="col-sm-4 col-12 text-center ">
         <span className="services-icon"><img src="data1/img/services4.png" alt="" className=""/></span>
         <h3 className="ls4 mb25 ">BRAND</h3>
         <p>
@@ -68,7 +68,7 @@ export default function Services() {
             Design Strategy
         </p>
     </Col>
-    <Col className="col-sm-4 text-center ">
+    <Col className="col-sm-4 col-12 text-center ">
         <span className="services-icon"><img src="data1/img/services5.png" alt="" className=""/></span>
         <h3 className="ls4 mb25 ">PRINT</h3>
         <p>Business Collateral<br/>
@@ -77,7 +77,7 @@ export default function Services() {
             Brand Promotion
         </p>
     </Col>
-    <Col className="col-md-4 text-center ">
+    <Col className="col-md-4 col-12 text-center ">
         <span className="services-icon"><img src="data1/img/services6.png" alt="" className=""/></span>
         <h3 className="ls4 mb25 ">DIGITAL</h3>
         <p>

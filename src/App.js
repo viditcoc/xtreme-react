@@ -19,13 +19,16 @@ import Footer from './includes/Footer';
 import {
   BrowserRouter as Router,
   Routes,
-  Route,
-  Link
+  Route
+  
 } from "react-router-dom";
 
 function App() {
   const [route, setRoute] = useState('');
- 
+  const handleClick = (e) => {
+    // e.preventDefault();
+     console.log('The link was clicked.');
+   }
 
   return (
     <>
@@ -36,11 +39,11 @@ function App() {
     <Navbar expand="lg">
     <Container>
     <LinkContainer to="/"><a className="navbar-brand"><img src="data1/img/xtreme_logo.png" className="logo"/></a></LinkContainer>
-      <Navbar.Toggle aria-controls="basic-navbar-nav" />
-      <Navbar.Collapse id="basic-navbar-nav" className="justify-content-end">
+      <Navbar.Toggle aria-controls="basic-navbar-nav" className="navBTN" />
+      <Navbar.Collapse id="basic-navbar-nav"  className="justify-content-end">
         <Nav className="ml-auto">
-          <LinkContainer to="/about"><a className="nav-link">About</a></LinkContainer>
-          <LinkContainer to="/services"><a className="nav-link">Services</a></LinkContainer>
+          <LinkContainer to="/about"><a onClick={handleClick} className="nav-link">About</a></LinkContainer>
+          <LinkContainer to="/services"><a onClick={handleClick} className="nav-link">Services</a></LinkContainer>
           <LinkContainer to="/process"><a className="nav-link">Process</a></LinkContainer>
           <LinkContainer to="/work"><a className="nav-link">Work</a></LinkContainer>
           <LinkContainer to="/clients"><a className="nav-link">Client</a></LinkContainer>

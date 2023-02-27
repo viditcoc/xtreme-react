@@ -41,7 +41,7 @@ export default function Clients() {
 
       {client.map((item,i)=>{
         return(
-          <Col key={i} className="col-sm-3 col-xs-6 pdnonemob mb10mob">
+          <Col key={i} className="col-sm-3 col-xs-6 col-6 pdnonemob mb10mob">
             <img className="logos" src={"data1/client-img/"+item.client_image} />
           </Col>
         )
